@@ -1,0 +1,47 @@
+html, body {
+	height: 1000px;
+	width: 100%;
+	overflow: scroll;
+}
+
+.container {
+	height: 100%;
+	width: 100%;
+}
+
+.box_top {
+	height: 200px;
+	width: 100%;
+}
+
+.box_mid {
+	height: 500px;
+	width: 80%;
+}
+
+.container_two {
+	height: 10%;
+	width: 100%;
+	border: 2px solid black;
+}
+
+.box_bot {
+	height: 100px;
+	width: 100%; 
+}
+
+.lgray {
+	background-color: #D8D8D8
+}
+
+.gray {
+	background-color: #444444
+}
+
+.white {
+	background-color: #EFEFEF
+}
+
+.black {
+	background-color: #222222
+}	
